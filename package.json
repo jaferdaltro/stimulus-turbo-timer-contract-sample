@@ -1,0 +1,22 @@
+{
+  "name": "stimulus-contract-demo",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@hotwired/stimulus": "^3.0.0-beta.1",
+    "@hotwired/turbo-rails": "^7.0.0-rc.3",
+    "@popperjs/core": "^2.10.1",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "5.4.2",
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^4.1.1"
+  }
+}
